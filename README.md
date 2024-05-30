@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sage</h1>
 <h3 align="center">A passionate software engineer from Israel 🇮🇱</h3>
 
-- 📫 How to reach me: **sagebaram.career@gmail.com**
-- 
+- 🔭 I’m currently **working** on a Fullstack E-Commerce website.
+- 🍃 I'm currently **learning** Web Design to improve my frontend skills.
+- 🤝 I want to collaborate on any project that can leverage my skillset.
+
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sagie-baram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagie-baram" height="30" width="40" /></a>
